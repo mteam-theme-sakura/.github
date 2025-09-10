@@ -270,11 +270,11 @@ Github：https://github.com/mteam-theme-sakura/theme
 
 # 2025-09-10 账号被删 最新剧情
 - 图 1：登录页提示 **“此帐号不存在”**
-  ![](https://github.com/xlch88/xlch88/blob/master/assets/img/2025-09-09/PixPin_2025-09-09_23-12-16.png?raw=true)
+  ![](https://raw.githubusercontent.com/xlch88/xlch88/refs/heads/master/assets/img/2025-09-09/PixPin_2025-09-09_23-12-16.png)
 - 图 2：找回密码页也一样，**提示“此帐号不存在”**。
-  ![](https://github.com/xlch88/xlch88/blob/master/assets/img/2025-09-09/PixPin_2025-09-09_23-13-53.png?raw=true)
+  ![](https://raw.githubusercontent.com/xlch88/xlch88/refs/heads/master/assets/img/2025-09-09/PixPin_2025-09-09_23-13-53.png)
 - 图 3：封禁查询结果，显示账号 dark495 在 2025-09-04 04:00:02 被处理，理由是**“40 天未登录，账号已删除”**。
-  ![](https://github.com/xlch88/xlch88/blob/master/assets/img/2025-09-09/PixPin_2025-09-09_23-14-56.png?raw=true)
+  ![](https://raw.githubusercontent.com/xlch88/xlch88/refs/heads/master/assets/img/2025-09-09/PixPin_2025-09-09_23-14-56.png)
 
 ## 吐槽两句
 我平时有习惯——我把我所有的 PT 站点都放在了一个单独的书签组里，每个月至少会有两到三次的将此书签组所有链接全部打开，如果登录未失效且有二次 OTP 则输入 OTP 进入首页，如果登录已经失效则挨个重新登录。
@@ -302,3 +302,6 @@ Github：https://github.com/mteam-theme-sakura/theme
 给大家提个醒：别太容易代入感动自己。因为到头来，你以为在“共同建设”，别人只当你在免费搬砖。
 
 ——完。
+
+# 2025-09-10 补充访问历史
+![]([https://github.com/xlch88/xlch88/blob/master/assets/img/2025-09-09/PixPin_2025-09-10_01-06-09.jpg?raw=true](https://raw.githubusercontent.com/xlch88/xlch88/refs/heads/master/assets/img/2025-09-09/PixPin_2025-09-10_01-06-09.jpg))
