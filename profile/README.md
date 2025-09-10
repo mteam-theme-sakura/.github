@@ -304,4 +304,4 @@ Github：https://github.com/mteam-theme-sakura/theme
 ——完。
 
 # 2025-09-10 补充访问历史
-![]([https://github.com/xlch88/xlch88/blob/master/assets/img/2025-09-09/PixPin_2025-09-10_01-06-09.jpg?raw=true](https://raw.githubusercontent.com/xlch88/xlch88/refs/heads/master/assets/img/2025-09-09/PixPin_2025-09-10_01-06-09.jpg))
+![](https://raw.githubusercontent.com/xlch88/xlch88/refs/heads/master/assets/img/2025-09-09/PixPin_2025-09-10_01-06-09.jpg)
